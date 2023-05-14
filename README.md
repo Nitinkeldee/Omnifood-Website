@@ -18,7 +18,3 @@ Having created the website from scratch, I learned how to create and implement f
 - Fully responsive thanks to media queries
 - Marquee animation in hero section using `@keyframes` and not the deprecated `<marquee>` tag
 - Utilized grid, flexbox and absolute positioning
-
-# Hero
-<a href="https://omnifood-redesign-aniket.netlify.app" target="_blank">
-<img src="https://user-images.githubusercontent.com/69382363/222127248-e76b2cca-46c5-43dc-86ed-b016a7b2f947.png" style="max-width:100%;"></a>
